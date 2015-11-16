@@ -98,6 +98,7 @@
       <root url="file://$PROJECT_DIR$/../../Another link to cinnabardk/siteMon/.idea" />
       <root url="file://$PROJECT_DIR$/../../vdobler/chart/.git" />
       <root url="file://$PROJECT_DIR$/../../Another link to cinnabardk/allancorfix2/node_modules/gulp-notify/node_modules/node-notifier/node_modules/cli-usage/node_modules/.bin" />
+      <root url="file://$PROJECT_DIR$/.git" />
       <root url="file://$PROJECT_DIR$/../../Link to cinnabardk/allancorfix2/node_modules/gulp-notify/node_modules/node-notifier/node_modules/cli-usage/node_modules/marked-terminal/node_modules/chalk/node_modules/.bin" />
       <root url="file://$PROJECT_DIR$/../../Link to cinnabardk/allancorfix2/node_modules/gulp-copy/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/.bin" />
       <root url="file://$PROJECT_DIR$/../../Another link to cinnabardk/allancorfix2/node_modules/semantic-ui/node_modules/gulp-prompt/node_modules/inquirer/node_modules/cli-color/test/__playground" />
@@ -372,6 +373,7 @@
       <root url="file://$PROJECT_DIR$/../../Another link to cinnabardk/allancorfix2/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/.bin" />
       <root url="file://$PROJECT_DIR$/../../tsenart/tb/.git" />
       <root url="file://$PROJECT_DIR$/../../trevex/golem/.git" />
+      <root url="file://$PROJECT_DIR$/../../sclevine/agouti/.git" />
       <root url="file://$PROJECT_DIR$/../../reusee/mmh3/.git" />
       <root url="file://$PROJECT_DIR$/../../Link to cinnabardk/allancorfix2/node_modules/semantic-ui/node_modules/gulp-less/node_modules/less/.idea" />
       <root url="file://$PROJECT_DIR$/../../../ezix.org/tar/testdata" />
@@ -464,6 +466,7 @@
       <root url="file://$PROJECT_DIR$/../../PuerkitoBio/goquery/testdata" />
       <root url="file://$PROJECT_DIR$/../../Link to cinnabardk/bf2/web/dist/.idea" />
       <root url="file://$PROJECT_DIR$/../../../golang.org/x/tools/go/loader/testdata" />
+      <root url="file://$PROJECT_DIR$/../../onsi/ginkgo/.git" />
       <root url="file://$PROJECT_DIR$/../../Link to cinnabardk/allancorfix2/node_modules/gulp-clone/node_modules/gulp-util/node_modules/.bin" />
       <root url="file://$PROJECT_DIR$/../../sajari/fuzzy/.git" />
       <root url="file://$PROJECT_DIR$/../../Another link to cinnabardk/allancorfix2/node_modules/semantic-ui/node_modules/gulp-less/node_modules/less/node_modules/.bin" />
@@ -542,6 +545,7 @@
       <root url="file://$PROJECT_DIR$/../../golang/tools/cmd/cover/testdata" />
       <root url="file://$PROJECT_DIR$/../../Link to cinnabardk/allancorfix2/node_modules/gulp-minify-css/node_modules/.bin" />
       <root url="file://$PROJECT_DIR$/../../m4rw3r/uuid/.git" />
+      <root url="file://$PROJECT_DIR$/../../onsi/ginkgo/integration/_fixtures" />
       <root url="file://$PROJECT_DIR$/../allancorfix2/node_modules/gulp-less/node_modules/accord/node_modules/fobject/node_modules/.bin" />
       <root url="file://$PROJECT_DIR$/../../Another link to cinnabardk/siteMonx/.git" />
       <root url="file://$PROJECT_DIR$/../allancorfix2/node_modules/semantic-ui/node_modules/gulp-notify/node_modules/node-notifier/node_modules/cli-usage/node_modules/.bin" />
@@ -550,7 +554,9 @@
       <root url="file://$PROJECT_DIR$/../../gorilla/securecookie/.git" />
       <root url="file://$PROJECT_DIR$/../../pierrre/geohash/.git" />
       <root url="file://$PROJECT_DIR$/../allancorfix2/node_modules/gulp-copy/node_modules/gulp-util/node_modules/.bin" />
+      <root url="file://$PROJECT_DIR$/../../onsi/gomega/.git" />
       <root url="file://$PROJECT_DIR$/../allancorfix2/node_modules/semantic-ui/node_modules/gulp-notify/node_modules/node-notifier/node_modules/.bin" />
+      <root url="file://$PROJECT_DIR$/../../onsi/gomega/gexec/_fixture" />
       <root url="file://$PROJECT_DIR$/../../Another link to cinnabardk/allancorfix2/node_modules/gulp-clone/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/.bin" />
       <root url="file://$PROJECT_DIR$/../../Link to cinnabardk/httpfunc/.idea" />
       <root url="file://$PROJECT_DIR$/../../Link to cinnabardk/allancorfix2/node_modules/semantic-ui/node_modules/yamljs/node_modules/.bin" />
