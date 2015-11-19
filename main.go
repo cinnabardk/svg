@@ -78,8 +78,8 @@ func Scatter() {
 	c.YRange.Label = "MS"
 	c.XRange.Category = months
 
-	c.AddDataPair("TTFB-Med60", x, TTFBMed, plotStyle, chart.Style{LineColor: green, LineStyle: lineStyle})
-	c.AddDataPair("TTFB-Low20", x, TTFBLow, plotStyle, chart.Style{LineColor: turquise, LineStyle: chart.LongDashLine})
+	c.AddDataPair("TTFB-Med", x, TTFBMed, plotStyle, chart.Style{LineColor: green, LineStyle: lineStyle})
+	c.AddDataPair("TTFB-Low", x, TTFBLow, plotStyle, chart.Style{LineColor: turquise, LineStyle: chart.LongDashLine})
 	c.AddDataPair("TTFB-File", x, TTFBFile, plotStyle, chart.Style{LineColor: yellow, LineStyle: chart.LongDashLine})
 	c.AddDataPair("Ping", x, ping, plotStyle, chart.Style{LineColor: brown, LineStyle: lineStyle})
 
@@ -97,12 +97,12 @@ func Scatter() {
 	c.YRange.Label = "MS"
 	c.XRange.Category = months
 
-	c.AddDataPair("TTFB-High20", x, TTFBHigh20, plotStyle, chart.Style{Symbol: '#', LineColor: green, LineStyle: lineStyle})
-	c.AddDataPair("  - HotHour", x, TTFBHigh20HotHour, plotStyle, chart.Style{
+	c.AddDataPair("TTFB-High", x, TTFBHigh20, plotStyle, chart.Style{Symbol: '#', LineColor: green, LineStyle: lineStyle})
+	c.AddDataPair("  - kl. 17-21", x, TTFBHigh20HotHour, plotStyle, chart.Style{
 		Symbol: '#', LineColor: violet, LineStyle: chart.LongDashLine})
 
-	c.AddDataPair("TTFB-FileHig20", x, TTFBFileHigh20, plotStyle, chart.Style{Symbol: '#', LineColor: red, LineStyle: lineStyle})
-	c.AddDataPair("  - HotHour", x, TTFBFileHigh20HotHour, plotStyle, chart.Style{Symbol: '#', LineColor: blue, LineStyle: chart.LongDashLine})
+	c.AddDataPair("TTFB-FileHigh", x, TTFBFileHigh20, plotStyle, chart.Style{Symbol: '#', LineColor: red, LineStyle: lineStyle})
+	c.AddDataPair("  - kl. 17-21", x, TTFBFileHigh20HotHour, plotStyle, chart.Style{Symbol: '#', LineColor: blue, LineStyle: chart.LongDashLine})
 
 	dumper.Plot(&c)
 }
