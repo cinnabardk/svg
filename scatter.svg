@@ -7,7 +7,7 @@
 <rect x="0" y="0" width="900" height="400" style="fill: #ffffff"/>
 <g style="font-family: Helvetica; font-size: 12">
 <rect x="0" y="0" width="450" height="400" style="stroke: #ffffff; opacity: 1.0000; fill: #ffffff; fill-opacity: 1.0000"/>
-<text x="249" y="394" style="text-anchor:middle">  Måned  </text>
+<text x="249" y="394" style="text-anchor:middle">  Succesfuld karriere  </text>
 <line x1="-9223372036854775736" y1="346" x2="-9223372036854775736" y2="358" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
 <text x="116" y="376" style="text-anchor:middle">Januar</text>
 <line x1="-9223372036854775736" y1="346" x2="-9223372036854775736" y2="358" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
@@ -23,64 +23,40 @@
 <line x1="-9223372036854775736" y1="346" x2="-9223372036854775736" y2="358" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
 <text x="381" y="376" style="text-anchor:middle">August</text>
 <line x1="72" y1="352" x2="426" y2="352" style="stroke:#000000; stroke-width: 2; fill:none; opacity: 1.000; "/>
-<text x="24" y="182" transform="rotate(-90 24 182)" style="text-anchor:middle">MS</text>
+<text x="24" y="182" transform="rotate(-90 24 182)" style="text-anchor:middle">Pro-EU</text>
 <line x1="66" y1="352" x2="78" y2="352" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<text x="60" y="356" style="text-anchor:end">-50</text>
+<text x="60" y="356" style="text-anchor:end">20</text>
 <line x1="66" y1="310" x2="78" y2="310" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<text x="60" y="314" style="text-anchor:end">0</text>
+<text x="60" y="314" style="text-anchor:end">40</text>
 <line x1="66" y1="267" x2="78" y2="267" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<text x="60" y="271" style="text-anchor:end">50</text>
+<text x="60" y="271" style="text-anchor:end">60</text>
 <line x1="66" y1="225" x2="78" y2="225" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<text x="60" y="229" style="text-anchor:end">100</text>
+<text x="60" y="229" style="text-anchor:end">80</text>
 <line x1="66" y1="182" x2="78" y2="182" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<text x="60" y="186" style="text-anchor:end">150</text>
+<text x="60" y="186" style="text-anchor:end">100</text>
 <line x1="66" y1="140" x2="78" y2="140" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<text x="60" y="144" style="text-anchor:end">200</text>
+<text x="60" y="144" style="text-anchor:end">120</text>
 <line x1="66" y1="97" x2="78" y2="97" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<text x="60" y="101" style="text-anchor:end">250</text>
+<text x="60" y="101" style="text-anchor:end">140</text>
 <line x1="66" y1="55" x2="78" y2="55" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<text x="60" y="59" style="text-anchor:end">300</text>
+<text x="60" y="59" style="text-anchor:end">160</text>
 <line x1="66" y1="12" x2="78" y2="12" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<text x="60" y="16" style="text-anchor:end">350</text>
+<text x="60" y="16" style="text-anchor:end">180</text>
 <line x1="72" y1="352" x2="72" y2="12" style="stroke:#000000; stroke-width: 2; fill:none; opacity: 1.000; "/>
-<line x1="116" y1="234" x2="160" y2="245" style="stroke:#00bb00; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="160" y1="245" x2="204" y2="223" style="stroke:#00bb00; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="204" y1="223" x2="249" y2="229" style="stroke:#00bb00; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="249" y1="229" x2="293" y2="113" style="stroke:#00bb00; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="293" y1="113" x2="337" y2="27" style="stroke:#00bb00; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="337" y1="27" x2="381" y2="94" style="stroke:#00bb00; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="116" y1="276" x2="160" y2="263" style="stroke:#00aaaa; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="160" y1="263" x2="204" y2="276" style="stroke:#00aaaa; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="204" y1="276" x2="249" y2="263" style="stroke:#00aaaa; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="249" y1="263" x2="293" y2="206" style="stroke:#00aaaa; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="293" y1="206" x2="337" y2="187" style="stroke:#00aaaa; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="337" y1="187" x2="381" y2="169" style="stroke:#00aaaa; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="116" y1="197" x2="160" y2="263" style="stroke:#bbbb00; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="160" y1="263" x2="204" y2="245" style="stroke:#bbbb00; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="204" y1="245" x2="249" y2="293" style="stroke:#bbbb00; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="249" y1="293" x2="293" y2="226" style="stroke:#bbbb00; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="293" y1="226" x2="337" y2="223" style="stroke:#bbbb00; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="337" y1="223" x2="381" y2="251" style="stroke:#bbbb00; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="116" y1="309" x2="160" y2="307" style="stroke:#996600; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="160" y1="307" x2="204" y2="306" style="stroke:#996600; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="204" y1="306" x2="249" y2="302" style="stroke:#996600; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="249" y1="302" x2="293" y2="291" style="stroke:#996600; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="293" y1="291" x2="337" y2="309" style="stroke:#996600; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="337" y1="309" x2="381" y2="262" style="stroke:#996600; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<rect x="282" y="30" width="114" height="79" style="stroke:#202020; stroke-opacity: 1.000; stroke-width: 1; fill: #f0f0f0; fill-opacity: 0.753"/>
-<line x1="290" y1="40" x2="317" y2="40" style="stroke:#00bb00; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<text x="328" y="44" style="text-anchor:begin; font-size: 11">TTFB-Med</text>
-<line x1="290" y1="59" x2="317" y2="59" style="stroke:#00aaaa; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<text x="328" y="63" style="text-anchor:begin; font-size: 11">TTFB-Low</text>
-<line x1="290" y1="78" x2="317" y2="78" style="stroke:#bbbb00; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<text x="328" y="82" style="text-anchor:begin; font-size: 11">TTFB-File</text>
-<line x1="290" y1="97" x2="317" y2="97" style="stroke:#996600; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<text x="328" y="101" style="text-anchor:begin; font-size: 11">Ping</text>
+<line x1="116" y1="310" x2="160" y2="278" style="stroke:#00aaaa; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
+<line x1="160" y1="278" x2="204" y2="310" style="stroke:#00aaaa; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
+<line x1="204" y1="310" x2="249" y2="278" style="stroke:#00aaaa; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
+<line x1="249" y1="278" x2="293" y2="136" style="stroke:#00aaaa; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
+<line x1="293" y1="136" x2="337" y2="87" style="stroke:#00aaaa; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
+<line x1="337" y1="87" x2="381" y2="42" style="stroke:#00aaaa; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
+<rect x="306" y="30" width="92" height="22" style="stroke:#202020; stroke-opacity: 1.000; stroke-width: 1; fill: #f0f0f0; fill-opacity: 0.753"/>
+<line x1="314" y1="40" x2="341" y2="40" style="stroke:#00aaaa; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
+<text x="352" y="44" style="text-anchor:begin; font-size: 11">Politiker</text>
 </g>
 <g style="font-family: Helvetica; font-size: 12">
 <g transform="translate(450 0)">
 <rect x="0" y="0" width="450" height="400" style="stroke: #ffffff; opacity: 1.0000; fill: #ffffff; fill-opacity: 1.0000"/>
-<text x="249" y="394" style="text-anchor:middle">  Måned  </text>
+<text x="249" y="394" style="text-anchor:middle">  Karrierens længde  </text>
 <line x1="-9223372036854775736" y1="346" x2="-9223372036854775736" y2="358" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
 <text x="116" y="376" style="text-anchor:middle">Januar</text>
 <line x1="-9223372036854775736" y1="346" x2="-9223372036854775736" y2="358" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
@@ -96,49 +72,35 @@
 <line x1="-9223372036854775736" y1="346" x2="-9223372036854775736" y2="358" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
 <text x="381" y="376" style="text-anchor:middle">August</text>
 <line x1="72" y1="352" x2="426" y2="352" style="stroke:#000000; stroke-width: 2; fill:none; opacity: 1.000; "/>
-<text x="24" y="182" transform="rotate(-90 24 182)" style="text-anchor:middle">MS</text>
+<text x="24" y="182" transform="rotate(-90 24 182)" style="text-anchor:middle">Idealisme</text>
 <line x1="66" y1="352" x2="78" y2="352" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<text x="60" y="356" style="text-anchor:end">0</text>
+<text x="60" y="356" style="text-anchor:end">120</text>
+<line x1="66" y1="310" x2="78" y2="310" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
+<text x="60" y="314" style="text-anchor:end">140</text>
 <line x1="66" y1="267" x2="78" y2="267" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<text x="60" y="271" style="text-anchor:end">500</text>
+<text x="60" y="271" style="text-anchor:end">160</text>
+<line x1="66" y1="225" x2="78" y2="225" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
+<text x="60" y="229" style="text-anchor:end">180</text>
 <line x1="66" y1="182" x2="78" y2="182" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<text x="60" y="186" style="text-anchor:end">1000</text>
+<text x="60" y="186" style="text-anchor:end">200</text>
+<line x1="66" y1="140" x2="78" y2="140" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
+<text x="60" y="144" style="text-anchor:end">220</text>
 <line x1="66" y1="97" x2="78" y2="97" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<text x="60" y="101" style="text-anchor:end">1.5 k</text>
+<text x="60" y="101" style="text-anchor:end">240</text>
+<line x1="66" y1="55" x2="78" y2="55" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
+<text x="60" y="59" style="text-anchor:end">260</text>
 <line x1="66" y1="12" x2="78" y2="12" style="stroke:#000000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<text x="60" y="16" style="text-anchor:end">2.0 k</text>
+<text x="60" y="16" style="text-anchor:end">280</text>
 <line x1="72" y1="352" x2="72" y2="12" style="stroke:#000000; stroke-width: 2; fill:none; opacity: 1.000; "/>
-<line x1="116" y1="318" x2="160" y2="301" style="stroke:#00bb00; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="160" y1="301" x2="204" y2="199" style="stroke:#00bb00; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="204" y1="199" x2="249" y2="97" style="stroke:#00bb00; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="249" y1="97" x2="293" y2="80" style="stroke:#00bb00; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="293" y1="80" x2="337" y2="131" style="stroke:#00bb00; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="116" y1="310" x2="160" y2="293" style="stroke:#bb00bb; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="160" y1="293" x2="204" y2="157" style="stroke:#bb00bb; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="204" y1="157" x2="249" y2="29" style="stroke:#bb00bb; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="249" y1="29" x2="293" y2="46" style="stroke:#bb00bb; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="293" y1="46" x2="337" y2="97" style="stroke:#bb00bb; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="116" y1="325" x2="160" y2="330" style="stroke:#cc0000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="160" y1="330" x2="204" y2="322" style="stroke:#cc0000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="204" y1="322" x2="249" y2="330" style="stroke:#cc0000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="249" y1="330" x2="293" y2="327" style="stroke:#cc0000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="293" y1="327" x2="337" y2="310" style="stroke:#cc0000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="337" y1="310" x2="381" y2="308" style="stroke:#cc0000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<line x1="116" y1="291" x2="160" y2="313" style="stroke:#0000dd; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="160" y1="313" x2="204" y2="305" style="stroke:#0000dd; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="204" y1="305" x2="249" y2="320" style="stroke:#0000dd; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="249" y1="320" x2="293" y2="322" style="stroke:#0000dd; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="293" y1="322" x2="337" y2="307" style="stroke:#0000dd; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<line x1="337" y1="307" x2="381" y2="303" style="stroke:#0000dd; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<rect x="264" y="30" width="131" height="79" style="stroke:#202020; stroke-opacity: 1.000; stroke-width: 1; fill: #f0f0f0; fill-opacity: 0.753"/>
-<line x1="272" y1="40" x2="299" y2="40" style="stroke:#00bb00; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<text x="310" y="44" style="text-anchor:begin; font-size: 11">TTFB-High</text>
-<line x1="272" y1="59" x2="299" y2="59" style="stroke:#bb00bb; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<text x="310" y="63" style="text-anchor:begin; font-size: 11">  - kl. 17-21</text>
-<line x1="272" y1="78" x2="299" y2="78" style="stroke:#cc0000; stroke-width: 1; fill:none; opacity: 1.000; "/>
-<text x="310" y="82" style="text-anchor:begin; font-size: 11">TTFB-FileHigh</text>
-<line x1="272" y1="97" x2="299" y2="97" style="stroke:#0000dd; stroke-width: 1; fill:none; opacity: 1.000; stroke-dasharray: 4 4"/>
-<text x="310" y="101" style="text-anchor:begin; font-size: 11">  - kl. 17-21</text>
+<line x1="116" y1="267" x2="160" y2="321" style="stroke:#cc0000; stroke-width: 1; fill:none; opacity: 1.000; "/>
+<line x1="160" y1="321" x2="204" y2="231" style="stroke:#cc0000; stroke-width: 1; fill:none; opacity: 1.000; "/>
+<line x1="204" y1="231" x2="249" y2="331" style="stroke:#cc0000; stroke-width: 1; fill:none; opacity: 1.000; "/>
+<line x1="249" y1="331" x2="293" y2="289" style="stroke:#cc0000; stroke-width: 1; fill:none; opacity: 1.000; "/>
+<line x1="293" y1="289" x2="337" y2="76" style="stroke:#cc0000; stroke-width: 1; fill:none; opacity: 1.000; "/>
+<line x1="337" y1="76" x2="381" y2="55" style="stroke:#cc0000; stroke-width: 1; fill:none; opacity: 1.000; "/>
+<rect x="288" y="30" width="109" height="22" style="stroke:#202020; stroke-opacity: 1.000; stroke-width: 1; fill: #f0f0f0; fill-opacity: 0.753"/>
+<line x1="296" y1="40" x2="323" y2="40" style="stroke:#cc0000; stroke-width: 1; fill:none; opacity: 1.000; "/>
+<text x="334" y="44" style="text-anchor:begin; font-size: 11">Arbejdsløs</text>
 </g>
 </g>
 </svg>

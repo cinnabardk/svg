@@ -15,8 +15,59 @@ import (
 func main() {
 	log.Println("Starting now..")
 	now := time.Now()
-	Scatter()
+	//Scatter() // Ny vinkel . Med seriøsitet bekæmper vi politik.
+	campaign()
 	log.Println("Exiting.. It took:", time.Since(now).String())
+}
+
+var (
+	months   = []string{"Januar", "Februar", "Marts", "Maj", "Juni", "Juli", "August"}
+	red      = color.NRGBA{0xcc, 0x00, 0x00, 0xff} // red
+	green    = color.NRGBA{0x00, 0xbb, 0x00, 0xff} // green
+	blue     = color.NRGBA{0x00, 0x00, 0xdd, 0xff} // blue
+	brown    = color.NRGBA{0x99, 0x66, 0x00, 0xff} // brown
+	violet   = color.NRGBA{0xbb, 0x00, 0xbb, 0xff} // violet
+	turquise = color.NRGBA{0x00, 0xaa, 0xaa, 0xff} // turquise
+	yellow   = color.NRGBA{0xbb, 0xbb, 0x00, 0xff} // yellow
+)
+
+func campaign() {
+
+	x := []float64{0, 1, 2, 3, 4, 5, 6}
+	const plotStyle = chart.PlotStyleLines
+	const lineStyle = chart.SolidLine
+
+	dumper := NewDumper("scatter", 2, 1, 450, 400)
+	defer dumper.Close()
+
+	TTFBLow := []float64{40, 55, 40, 55, 122, 145, 166}
+
+	// Categorized Bar Chart
+	c := chart.ScatterChart{}
+	c.YRange.Label = "Pro-EU"
+	c.XRange.Label = "Succesfuld karriere"
+	c.XRange.Category = months
+
+	// Et klogt dyr bider ej hånden som føder den.
+	// Magt fører mere magt med sig. Stå i opposition til magten, og magten har ej brug for dig.
+
+	c.AddDataPair("Politiker", x, TTFBLow, plotStyle, chart.Style{LineColor: turquise, LineStyle: chart.LongDashLine})
+
+	dumper.Plot(&c)
+	// Du tjener systemet. Systemet belønner dig. Skønt tusind år forgår, forbliver menneskelig natur altid den samme.
+	// //Det er lettere at gå i medvind, en at gå imod vinden og den herskende ånd.
+	// Den der går imod vinden, går fattig, udskældt og ene.
+	TTFBFileHigh20 := []float64{160, 135, 177, 130, 150, 250, 260}
+
+	// Categorized Bar Chart
+	c = chart.ScatterChart{}
+	c.YRange.Label = "Idealisme"
+	c.XRange.Label = "Karrierens længde"
+	c.XRange.Category = months
+
+	c.AddDataPair("Arbejdsløs", x, TTFBFileHigh20, plotStyle, chart.Style{Symbol: '#', LineColor: red, LineStyle: lineStyle})
+
+	dumper.Plot(&c)
 }
 
 func xbar2() {
@@ -52,14 +103,6 @@ func xbar2() {
 }
 
 func Scatter() {
-	months := []string{"Januar", "Februar", "Marts", "Maj", "Juni", "Juli", "August"}
-	red := color.NRGBA{0xcc, 0x00, 0x00, 0xff}      // red
-	green := color.NRGBA{0x00, 0xbb, 0x00, 0xff}    // green
-	blue := color.NRGBA{0x00, 0x00, 0xdd, 0xff}     // blue
-	brown := color.NRGBA{0x99, 0x66, 0x00, 0xff}    // brown
-	violet := color.NRGBA{0xbb, 0x00, 0xbb, 0xff}   // violet
-	turquise := color.NRGBA{0x00, 0xaa, 0xaa, 0xff} // turquise
-	yellow := color.NRGBA{0xbb, 0xbb, 0x00, 0xff}   // yellow
 	x := []float64{0, 1, 2, 3, 4, 5, 6}
 	const plotStyle = chart.PlotStyleLines
 	const lineStyle = chart.SolidLine
